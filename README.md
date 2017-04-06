@@ -8,9 +8,8 @@ The ImageProcessing Orcc code is online:
 https://github.com/robstewart57/orc-apps/tree/master/ImageProcessing
 
 The other implementations were incoroporated from the existing RIP Orcc project.
-
     The low level algorithms are pixelwise operations and geometric image transforms.
-
     The medium level algorithms are connected components labelling, edge detection and texture analysis.
+    The high level algorithm is a Histogram of Gradients (HOG) implementation, which can be connected to a support vector machine (SVM)                 for object detection as future work.
 
-    The high level algorithm is a Histogram of Gradients (HOG) implementation, which can be connected to a support vector machine (SVM) for object detection as future work.
+
